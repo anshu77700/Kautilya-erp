@@ -1,0 +1,45 @@
+[
+    {
+        "name": "New Bharat Medical Store",
+        "address": "Infront of BRD medical store, Gorakhpur 273013",
+        "gst": "98237458",
+        "phone": "92845684",
+        "opening_balance": "0"
+    },
+    {
+        "name": "Shobhit Mediworld Rana Hospital",
+        "address": "Infront of Rana Hospita, Railvihar",
+        "gst": "92485924859",
+        "drug1": "94823478457",
+        "drug2": "8748748",
+        "phone": "8944897587",
+        "opening_balance": "0"
+    },
+    {
+        "name": "Nayana Meidcal Store",
+        "address": "Infront of Rana Hospita, Railvihar",
+        "gst": "92485924859",
+        "drug1": "94823478457",
+        "drug2": "8748748",
+        "phone": "8944897587",
+        "opening_balance": "0"
+    },
+    {
+        "name": "Newayee Pharma",
+        "address": "Infront of Rana Hospita, Railvihar",
+        "gst": "92485924859",
+        "drug1": "94823478457",
+        "drug2": "8748748",
+        "phone": "8944897587",
+        "opening_balance": "0"
+    },
+    {
+        "name": "Shivam Medical Store",
+        "address": "Infront of Rana Hospita, Railvihar",
+        "gst": "92485924859",
+        "drug1": "94823478457",
+        "drug2": "8748748",
+        "phone": "8944897587",
+        "opening_balance": "0"
+    }
+]

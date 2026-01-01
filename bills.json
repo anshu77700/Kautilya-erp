@@ -1,0 +1,54 @@
+[
+    {
+        "bill_no": "B0001",
+        "party": "New Bharat Medical Store",
+        "product": "Venorectine",
+        "qty": "10",
+        "rate": "233.67",
+        "total": "2336.70"
+    },
+    {
+        "bill_no": "B0002",
+        "party": "New Bharat Medical Store",
+        "items": [
+            {
+                "product": "Venorectine",
+                "qty": 10.0,
+                "rate": 233.67,
+                "total": 2336.7
+            },
+            {
+                "product": "Curcugest",
+                "qty": 10.0,
+                "rate": 303.33,
+                "total": 3033.2999999999997
+            },
+            {
+                "product": "Gutway",
+                "qty": 5.0,
+                "rate": 110.1,
+                "total": 550.5
+            }
+        ],
+        "grand_total": "Grand Total: 5920.50"
+    },
+    {
+        "bill_no": "B0003",
+        "party": "New Bharat Medical Store",
+        "items": [
+            {
+                "product": "Venorectine",
+                "qty": 5.0,
+                "rate": 233.67,
+                "total": 1168.35
+            },
+            {
+                "product": "Curcugest",
+                "qty": 5.0,
+                "rate": 303.33,
+                "total": 1516.6499999999999
+            }
+        ],
+        "grand_total": "Grand Total: 2685.00"
+    }
+]

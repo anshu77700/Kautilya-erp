@@ -1,0 +1,29 @@
+[
+    {
+        "product_id": "P001",
+        "name": "Venorectine",
+        "company": "Koester pharama",
+        "hsn": "12YUH3",
+        "gst": 5.0,
+        "unit": "1*10",
+        "stock": 0
+    },
+    {
+        "product_id": "P002",
+        "name": "Curcugest",
+        "company": "",
+        "hsn": "129HUG",
+        "gst": 5.0,
+        "unit": "1*10",
+        "stock": 0
+    },
+    {
+        "product_id": "P003",
+        "name": "Gutway",
+        "company": "Koester",
+        "hsn": "93UUBS",
+        "gst": 5.0,
+        "unit": "1*10",
+        "stock": 0
+    }
+]
