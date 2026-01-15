@@ -6,7 +6,33 @@
         "hsn": "12YUH3",
         "gst": 5.0,
         "unit": "1*10",
-        "stock": 0
+        "stock": 0,
+        "batches": [
+            {
+                "batch": "IECM",
+                "expiry": "12/26",
+                "purchase_rate": 20.0,
+                "trade_rate": 30.0,
+                "mrp": 40.0,
+                "stock": 0
+            },
+            {
+                "batch": "D8T237",
+                "expiry": "12/26",
+                "purchase_rate": 217.8,
+                "trade_rate": 231.8,
+                "mrp": 338.12,
+                "stock": 0
+            },
+            {
+                "batch": "25BT420",
+                "expiry": "9/26",
+                "purchase_rate": 160.0,
+                "trade_rate": 161.02,
+                "mrp": 380.0,
+                "stock": 0
+            }
+        ]
     },
     {
         "product_id": "P002",
@@ -15,7 +41,17 @@
         "hsn": "129HUG",
         "gst": 5.0,
         "unit": "1*10",
-        "stock": 0
+        "stock": 0,
+        "batches": [
+            {
+                "batch": "iie",
+                "expiry": "12/26",
+                "purchase_rate": 120.0,
+                "trade_rate": 170.0,
+                "mrp": 200.0,
+                "stock": 0
+            }
+        ]
     },
     {
         "product_id": "P003",
@@ -24,6 +60,44 @@
         "hsn": "93UUBS",
         "gst": 5.0,
         "unit": "1*10",
+        "stock": 0,
+        "batches": [
+            {
+                "batch": "QWERT",
+                "expiry": "12/16",
+                "purchase_rate": 123.0,
+                "trade_rate": 234.0,
+                "mrp": 345.0,
+                "stock": 0
+            }
+        ]
+    },
+    {
+        "product_id": "P004",
+        "name": "Dolo 625",
+        "company": "",
+        "hsn": "653781",
+        "gst": 5.0,
+        "unit": "1*10",
         "stock": 0
+    },
+    {
+        "product_id": "P005",
+        "name": "veno test",
+        "company": "",
+        "hsn": "2106",
+        "gst": 18.0,
+        "unit": "1*10",
+        "stock": 0,
+        "batches": [
+            {
+                "batch": "25BT430",
+                "expiry": "9/26",
+                "purchase_rate": 160.0,
+                "trade_rate": 161.02,
+                "mrp": 380.0,
+                "stock": 0
+            }
+        ]
     }
 ]

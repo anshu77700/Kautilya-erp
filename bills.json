@@ -1,6 +1,6 @@
 [
     {
-        "bill_no": "B0001",
+        "bill_no": "A0001",
         "party": "New Bharat Medical Store",
         "product": "Venorectine",
         "qty": "10",
@@ -8,7 +8,7 @@
         "total": "2336.70"
     },
     {
-        "bill_no": "B0002",
+        "bill_no": "A0002",
         "party": "New Bharat Medical Store",
         "items": [
             {
@@ -33,7 +33,7 @@
         "grand_total": "Grand Total: 5920.50"
     },
     {
-        "bill_no": "B0003",
+        "bill_no": "A0003",
         "party": "New Bharat Medical Store",
         "items": [
             {
@@ -50,5 +50,18 @@
             }
         ],
         "grand_total": "Grand Total: 2685.00"
+    },
+    {
+        "bill_no": "A0004",
+        "party": "Shobhit Mediworld Rana Hospital",
+        "items": [
+            {
+                "product": "Venorectine",
+                "qty": 10.0,
+                "rate": 10.0,
+                "total": 100.0
+            }
+        ],
+        "grand_total": "Grand Total: 100.00"
     }
 ]
